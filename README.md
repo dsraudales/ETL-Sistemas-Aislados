@@ -1,4 +1,4 @@
-# ETL - Datos Regulatorios Sistemas Aislados 🔌
+# ETL - Datos Regulatorios Sistemas Aislados
 
 Sistema ETL (Extract, Transform, Load) para la carga automatizada de datos regulatorios de sistemas eléctricos aislados desde archivos Excel a una base de datos SQL Server.
 
