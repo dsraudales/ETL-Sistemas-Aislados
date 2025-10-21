@@ -1,0 +1,16 @@
+# =============================================================================
+# DEPENDENCIAS DEL PROYECTO
+# =============================================================================
+# Instalar con: pip install -r requirements.txt
+
+# Core dependencies
+pandas>=2.0.0
+pyodbc>=4.0.39
+SQLAlchemy>=2.0.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.0
+openpyxl>=3.1.0  # Para leer archivos .xlsx
+xlrd>=2.0.1      # Para leer archivos .xls
+
+# Optional pero recomendadas
+urllib3>=2.0.0
